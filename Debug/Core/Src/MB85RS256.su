@@ -1,0 +1,7 @@
+../Core/Src/MB85RS256.c:33:6:WriteProtect	16	static
+../Core/Src/MB85RS256.c:40:9:ReadStatus	24	static
+../Core/Src/MB85RS256.c:48:6:WriteEnable	16	static
+../Core/Src/MB85RS256.c:56:6:MB85RS_write	32	static
+../Core/Src/MB85RS256.c:70:6:MB85RS_read	32	static
+../Core/Src/MB85RS256.c:82:6:MB85RS_erase	152	static
+../Core/Src/MB85RS256.c:107:6:StartTaskFram	24	static
